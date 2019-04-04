@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Sc2ad",
+  "description": "A mod to test functionality.",
+  "gameVersion": "0.13.1",
+  "id": "scad-test-mod",
+  "name": "ScadTestMod",
+	"version": "0.0.1",
+  "features": [
+    "no-update"
+  ]
+}
